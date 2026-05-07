@@ -1,0 +1,474 @@
+{
+  "name": "X-Clash",
+  "domain": "x-clash.online",
+  "slug": "x-clash",
+  "genre": "Strategy",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://www.xclash.online/",
+  "embedSource": "XClash.online browser play page",
+  "seo": {
+    "title": "X-Clash Online - Free Browser Game, No Download",
+    "description": "Play X-Clash online in your browser. Build a team, plan attacks, upgrade heroes, and enjoy a free strategy battle game with no download.",
+    "keywords": [
+      "X-Clash",
+      "X-Clash online",
+      "free strategy game",
+      "browser battle game",
+      "hero strategy game",
+      "no download game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Build your squad and win the clash.",
+    "heroSubtitle": "Plan your lineup, use hero skills at the right moment, and work through quick strategy battles in your browser.",
+    "lede": "X-Clash is a browser strategy battle game about reading the fight, choosing the right heroes, and improving your team between rounds.",
+    "stats": [
+      {
+        "value": "3",
+        "label": "Battle Phases"
+      },
+      {
+        "value": "5",
+        "label": "Skill Areas"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Access"
+      }
+    ],
+    "about": {
+      "kicker": "What is X-Clash?",
+      "headline": "A compact strategy battle game built around heroes and timing.",
+      "paragraph1": "X-Clash gives players a fast strategy loop: choose a team, enter battle, use each hero's strengths, then spend rewards on upgrades that make the next fight cleaner.",
+      "paragraph2": "The game runs through a local play page on this site, so visitors can start from the same simple route every time. No account is needed to begin, and the content around the game explains the rules clearly for players and families."
+    },
+    "howToPlay": {
+      "headline": "Choose, fight, upgrade, repeat.",
+      "subheading": "The basics are simple, but better results come from planning the order of your actions."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Battle",
+        "desc": "Load the game and review the available heroes before starting a round."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Enemy",
+        "desc": "Look for enemy patterns and decide which hero should handle the first threat."
+      },
+      {
+        "icon": "refresh",
+        "title": "Use Skills Carefully",
+        "desc": "Activate stronger abilities when they can change the fight, not just when they are available."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Upgrade the Team",
+        "desc": "Spend rewards on heroes and upgrades that solve the problems you just faced."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Win the Clash",
+        "desc": "Keep refining your squad until each round feels controlled and deliberate."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Starter",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Practice",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Expert",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Master",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Quick Battle Loop",
+        "desc": "Rounds are short enough for a break and strategic enough to reward better decisions."
+      },
+      {
+        "icon": "target",
+        "title": "Hero-Based Planning",
+        "desc": "Different roles make team composition matter before the fight even starts."
+      },
+      {
+        "icon": "device",
+        "title": "Browser Play",
+        "desc": "Open the play page on desktop, tablet, or phone without installing an app."
+      },
+      {
+        "icon": "image",
+        "title": "Readable Action",
+        "desc": "Clear battle feedback helps players understand what worked and what needs changing."
+      },
+      {
+        "icon": "shield",
+        "title": "Family-Friendly Page",
+        "desc": "No chat, no account form, and no user-generated content are required on this site."
+      },
+      {
+        "icon": "music",
+        "title": "Focused Session Flow",
+        "desc": "Short rounds and quick retries make it easy to stop at a natural point."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is X-Clash?",
+        "a": "X-Clash is a browser strategy battle game where you choose heroes, use abilities, and upgrade your team between fights."
+      },
+      {
+        "q": "Is X-Clash free?",
+        "a": "Yes. You can open the browser play page without paying or creating an account."
+      },
+      {
+        "q": "Do I need to download anything?",
+        "a": "No. The game opens through the local play route and loads the external browser game in an iframe."
+      },
+      {
+        "q": "What is the best first strategy?",
+        "a": "Start by learning what each hero does, then upgrade the role that causes the most trouble in your failed rounds."
+      },
+      {
+        "q": "Does X-Clash work on mobile?",
+        "a": "It is intended for modern browsers, including mobile browsers, though desktop screens can make battles easier to read."
+      },
+      {
+        "q": "Is X-Clash safe for kids?",
+        "a": "The site page avoids chat, account forms, and user-generated content. Parents should still supervise younger players."
+      }
+    ],
+    "cta": {
+      "headline": "Open X-Clash and start playing.",
+      "subtext": "No install, no account wall, and no complicated setup. Start with a short session and build from there."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three steps to a cleaner first battle.",
+    "steps": [
+      {
+        "title": "Pick a Team",
+        "desc": "Choose heroes that cover attack, defense, and support instead of stacking one role."
+      },
+      {
+        "title": "Control the Fight",
+        "desc": "Watch the enemy pattern and use stronger abilities when they interrupt the biggest threat."
+      },
+      {
+        "title": "Upgrade With Purpose",
+        "desc": "Improve the hero or role that would have changed the previous round."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is X-Clash?",
+        "a": "X-Clash is a browser strategy battle game where you choose heroes, use abilities, and upgrade your team between fights."
+      },
+      {
+        "q": "Is X-Clash free?",
+        "a": "Yes. You can open the browser play page without paying or creating an account."
+      },
+      {
+        "q": "Do I need to download anything?",
+        "a": "No. The game opens through the local play route and loads the external browser game in an iframe."
+      },
+      {
+        "q": "What is the best first strategy?",
+        "a": "Start by learning what each hero does, then upgrade the role that causes the most trouble in your failed rounds."
+      },
+      {
+        "q": "Does X-Clash work on mobile?",
+        "a": "It is intended for modern browsers, including mobile browsers, though desktop screens can make battles easier to read."
+      },
+      {
+        "q": "Is X-Clash safe for kids?",
+        "a": "The site page avoids chat, account forms, and user-generated content. Parents should still supervise younger players."
+      },
+      {
+        "q": "Can I play on a phone?",
+        "a": "Yes. X-Clash is intended for modern mobile and desktop browsers. A larger screen can make some decisions easier to read, but touch controls work for casual play."
+      },
+      {
+        "q": "Is this safe for children?",
+        "a": "The page avoids chat, social posting, account gates, and user-generated content. Parents should still set normal screen-time limits and supervise younger players."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "X-Clash is a strategy battle game where team choice and timing matter. A good round starts before the first attack, because the heroes you choose determine how well you can respond to enemy pressure.",
+    "steps": [
+      {
+        "title": "Pick a Team",
+        "desc": "Choose heroes that cover attack, defense, and support instead of stacking one role."
+      },
+      {
+        "title": "Control the Fight",
+        "desc": "Watch the enemy pattern and use stronger abilities when they interrupt the biggest threat."
+      },
+      {
+        "title": "Upgrade With Purpose",
+        "desc": "Improve the hero or role that would have changed the previous round."
+      }
+    ],
+    "mechanic": {
+      "title": "Hero Timing and Team Upgrades",
+      "desc": "Each hero contributes a different role. The core skill is deciding when to use those strengths and which upgrades will make the next round more stable."
+    },
+    "difficultyProgression": "Early battles teach the basic rhythm. Later fights ask you to read more threats at once, use skills with better timing, and invest rewards into a focused team plan.",
+    "tips": [
+      {
+        "title": "Balance your lineup",
+        "desc": "A team with only attackers can lose control quickly. Include enough defense or support to survive pressure."
+      },
+      {
+        "title": "Save key skills",
+        "desc": "Do not spend a strong ability on a small threat when a harder wave is coming."
+      },
+      {
+        "title": "Upgrade after mistakes",
+        "desc": "Let failed rounds tell you what needs improvement before spending rewards."
+      },
+      {
+        "title": "Watch enemy timing",
+        "desc": "Many losses come from ignoring when the enemy is about to attack."
+      },
+      {
+        "title": "Keep sessions short",
+        "desc": "A few focused rounds teach more than long distracted play."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Practical tips and safe-play guidance for X-Clash.",
+    "introParagraph": "These guides explain how to approach X-Clash with clearer decisions, better habits, and safer browser play.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with X-Clash",
+        "excerpt": "Learn the objective, controls, and first-session habits for X-Clash.",
+        "category": "Guide",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "map",
+        "sections": [
+          {
+            "heading": "What Makes X-Clash Different",
+            "paragraphs": [
+              "X-Clash works because the goal is easy to understand but the decisions stay interesting. Each round asks you to balance hero choice, timing, and upgrades instead of relying on random tapping. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open X-Clash, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips for X-Clash",
+        "excerpt": "Use these practical habits to make better decisions in X-Clash.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "idea",
+        "sections": [
+          {
+            "heading": "What Makes X-Clash Different",
+            "paragraphs": [
+              "X-Clash works because the goal is easy to understand but the decisions stay interesting. Each round asks you to balance hero choice, timing, and upgrades instead of relying on random tapping. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open X-Clash, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "Why X-Clash Is Good for Focus",
+        "excerpt": "A look at the attention and problem-solving skills used while playing X-Clash.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "brain",
+        "sections": [
+          {
+            "heading": "What Makes X-Clash Different",
+            "paragraphs": [
+              "X-Clash works because the goal is easy to understand but the decisions stay interesting. Each round asks you to balance hero choice, timing, and upgrades instead of relying on random tapping. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open X-Clash, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Improve at X-Clash",
+        "excerpt": "Build a repeatable method for improving at X-Clash without frustration.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "chart",
+        "sections": [
+          {
+            "heading": "What Makes X-Clash Different",
+            "paragraphs": [
+              "X-Clash works because the goal is easy to understand but the decisions stay interesting. Each round asks you to balance hero choice, timing, and upgrades instead of relying on random tapping. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open X-Clash, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "X-Clash for Kids: Parent Guide",
+        "excerpt": "Safety notes and screen-time advice for families playing X-Clash.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-01",
+        "icon": "family",
+        "sections": [
+          {
+            "heading": "What Makes X-Clash Different",
+            "paragraphs": [
+              "X-Clash works because the goal is easy to understand but the decisions stay interesting. Each round asks you to balance hero choice, timing, and upgrades instead of relying on random tapping. The best sessions are not about rushing through menus; they are about reading the board, choosing a sensible next move, and learning from each attempt.",
+              "That structure makes the game useful for quick breaks and longer practice sessions. A player can open the browser, understand the objective quickly, and still find enough depth to improve over time."
+            ]
+          },
+          {
+            "heading": "First Session Priorities",
+            "paragraphs": [
+              "Use the first few minutes to learn the rhythm rather than chasing a perfect score. Watch how the game responds to each input, notice which choices create more options, and restart calmly if an early decision blocks progress.",
+              "Once the basic rules feel natural, start thinking one or two moves ahead. Most avoidable mistakes come from acting on the first visible option instead of checking whether it helps the next step."
+            ]
+          },
+          {
+            "heading": "Common Mistakes",
+            "paragraphs": [
+              "The most common beginner mistake is treating every move as isolated. Good play usually comes from sequencing: one decision should prepare the next, clear space, or protect an important resource.",
+              "Another mistake is ignoring the easiest source of feedback. When a run fails, pause for a moment and name the reason. A specific lesson is more useful than a fast retry."
+            ]
+          },
+          {
+            "heading": "Ready to Play",
+            "paragraphs": [
+              "Open X-Clash, play a short round, and focus on clean decisions. The more deliberately you read the situation, the faster the game becomes familiar and rewarding."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
