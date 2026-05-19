@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'x-clash-combat-guide': {
+        slug: 'x-clash-combat-guide',
+        title: 'X-Clash Combat Guide: How to Control Chaos and Survive Longer',
+        description: 'A clear X-Clash guide to movement, target priority, timing, power-ups, pressure control, and smarter action-game habits.',
+        datePublished: '2026-05-19',
+        dateModified: '2026-05-19',
+        keywords: ['X-Clash guide', 'X-Clash tips', 'X-Clash strategy', 'free action game browser'],
+        category: 'Strategy',
+        readTime: '12 min read',
+    },
 };
